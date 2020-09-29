@@ -22,7 +22,7 @@
   - #### I have written two Python scripts viz. `detection_on_vid.py` and `detection_on_image.py`. The former detects facial expressions using Webcam and the latter detects the    expressions of human faces in an image. 
   
   
-## Libraries Used in this Project:
+## Libraries Used :
 
   - #### TensorFlow 2.0
   
