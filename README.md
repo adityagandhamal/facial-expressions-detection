@@ -6,23 +6,25 @@
 ![expression_detection](https://user-images.githubusercontent.com/61016383/94587769-afa85680-02a0-11eb-897f-ffe8d88becbe.gif)
 
 ## About Project
-  - ### Using [TensorFlow](https://www.tensorflow.org/), I have created a deep learning ConvNet Model `detection_model.h5`, trained on the [FER-2013 Kaggle Dataset](https://www.kaggle.com/msambare/fer2013).
+  - #### Using [TensorFlow](https://www.tensorflow.org/), I have created a deep learning ConvNet Model `detection_model.h5` to detect expressions like Happy, Sad, Angry and Surprised faces.
   
-  - ### You can find the model building and training process in the `model_building.ipynb` file.
+  - #### The model is trained on the [FER-2013 Kaggle Dataset](https://www.kaggle.com/msambare/fer2013).
   
-  - ### Using OpenCV and Python, I have extracted the facial features with the help of the Haar Cascade Classifier `haarcascade_frontalface_default.xml`, and given them to my Model to detect the expressions.
+  - #### You can find the model building and training process in the `model_building.ipynb` file.
   
-  - ### I have written two Python scripts viz. `detection_on_vid.py` and `detection_on_image.py`. The former detects facial expressions using Webcam and the latter detects the    expressions of human faces in an image. 
+  - #### Using OpenCV and Python, I have extracted the facial features with the help of the Haar Cascade Classifier `haarcascade_frontalface_default.xml`, and given them to my Model to detect the expressions.
+  
+  - #### I have written two Python scripts viz. `detection_on_vid.py` and `detection_on_image.py`. The former detects facial expressions using Webcam and the latter detects the    expressions of human faces in an image. 
   
   
 ## Libraries Used in this Project:
 
-  - ### TensorFlow 2.0
+  - #### TensorFlow 2.0
   
-  - ### OpenCV
+  - #### OpenCV
   
-  - ### Python>=3.7
+  - #### Python>=3.7
   
-  - ### Numpy
+  - #### Numpy
   
   
