@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 
 # IMPORTS
 
@@ -103,10 +100,4 @@ for x, y, w, h in faces:
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
-
-
-
 
