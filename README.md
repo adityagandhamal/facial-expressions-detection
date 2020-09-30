@@ -35,8 +35,8 @@
   - #### Numpy
   
   
-## Here's what you can do to use this project to detect your expressions on the webcam:
-Make sure you have Python>=3.7 installed in your machine, if not then you can download it [here](https://www.python.org/).
+## Here's what you can do to use this project to detect your facial expressions using the webcam:
+#### Make sure you have Python>=3.7 installed in your machine, if not then you can download it [here](https://www.python.org/).
 
   - [Clone](https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) this repo or download the zip folder.
   
