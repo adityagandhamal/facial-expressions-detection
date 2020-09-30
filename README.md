@@ -19,7 +19,7 @@
   - #### Using OpenCV and Python, I have extracted the facial features with the help of Haar Cascade Classifier `haarcascade_frontalface_default.xml`, and given them to my model to detect the expressions.
   
   
-  - #### I have written two Python scripts viz. `detection_on_vid.py` and `detection_on_image.py`. The former detects facial expressions using Webcam and the latter detects the    expressions of human faces in an image. 
+  - #### I have written two Python scripts viz. `detection_on_vid.py` and `detection_on_image.py`. The former detects facial expressions using Webcam and the latter detects the    facial expressions in an image. 
   
   
 ## Libraries Used
