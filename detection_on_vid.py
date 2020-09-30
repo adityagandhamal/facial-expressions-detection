@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 
 # IMPORTS
 
@@ -76,6 +73,7 @@ cascade_model = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 cap = cv2.VideoCapture(0)
 
 while cap.isOpened():
+    
     _, frame = cap.read()
 
   
@@ -117,8 +115,4 @@ while cap.isOpened():
 
 cap.release()        
 cv2.destroyAllWindows()
-
-
-
-
 
