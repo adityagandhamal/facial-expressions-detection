@@ -5,7 +5,7 @@
 
 ![expression_detection](https://user-images.githubusercontent.com/61016383/94587769-afa85680-02a0-11eb-897f-ffe8d88becbe.gif)
 
-## About Project
+## About the Project
   
   - #### Using [TensorFlow](https://www.tensorflow.org/), I have created a deep learning ConvNet Model `detection_model.h5` to detect Happy, Sad, Angry and Surprised expressions.
   
