@@ -16,7 +16,7 @@
   - #### You can find the model building and training process in the `model_building.ipynb` file.
   
   
-  - #### Using OpenCV and Python, I have extracted the facial features with the help of the Haar Cascade Classifier `haarcascade_frontalface_default.xml`, and given them to my Model to detect the expressions.
+  - #### Using OpenCV and Python, I have extracted the facial features with the help of Haar Cascade Classifier `haarcascade_frontalface_default.xml`, and given them to my Model to detect the expressions.
   
   
   - #### I have written two Python scripts viz. `detection_on_vid.py` and `detection_on_image.py`. The former detects facial expressions using Webcam and the latter detects the    expressions of human faces in an image. 
@@ -25,6 +25,8 @@
 ## Libraries Used
 
   - #### TensorFlow 2.0
+  
+  - ### Keras
   
   - #### OpenCV
   
