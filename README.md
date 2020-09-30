@@ -42,9 +42,9 @@
   
   2. Install the following dependencies:
     
-    - TensorFlow 2.0 `pip install tensorflow`
-    
-    - OpenCV `pip install opencv-python`
+   - TensorFlow 2.0 `pip install tensorflow`
+     
+   - OpenCV `pip install opencv-python`
     
   3. Go to the directory of this repo cloned or downloaded onto your local machine and open cmd.
   
