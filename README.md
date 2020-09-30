@@ -48,5 +48,5 @@
     
   - Go to the directory of this repo cloned or downloaded onto your local machine and open cmd.
   
-  - Run `detection_on_vid.py` file and try making different facial expressions like Happy, Sad, Angry and Surprised and notice the detections made. 
+  - Run `detection_on_vid.py` file and try making different expressions like Happy, Sad, Angry and Surprised faces and notice the detections made. 
 
