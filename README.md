@@ -7,7 +7,7 @@
 
 ## About the Project
   
-  - #### Using [TensorFlow](https://www.tensorflow.org/), I have created a deep learning ConvNet Model `detection_model.h5` to detect Happy, Sad, Angry and Surprised expressions.
+  - #### Using [TensorFlow](https://www.tensorflow.org/), I have created a deep learning ConvNet Model `detection_model.h5` to detect Happy, Sad, Angry and Surprised facial expressions.
   
   
   - #### The model is trained on the [FER-2013 Kaggle Dataset](https://www.kaggle.com/msambare/fer2013).
