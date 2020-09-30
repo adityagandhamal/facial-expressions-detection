@@ -35,3 +35,18 @@
   - #### Numpy
   
   
+## Here's what you can do to use this project to detect your expressions on the webcam:
+Make sure you have Python>=3.7 installed in your machine, if not then you can download it [here](https://www.python.org/).
+
+  - [Clone](https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) this repo or download the zip folder.
+  
+  - Install the following dependencies:
+    
+    - TensorFlow 2.0 `pip install tensorflow`
+    
+    - OpenCV `pip install opencv-python`
+    
+  - Go to the directory of this repo cloned or downloaded onto your local machine and open cmd.
+  
+  - Run `detection_on_vid.py` file.
+
