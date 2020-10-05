@@ -13,7 +13,7 @@
   - #### The model is trained on the [FER-2013 Kaggle Dataset](https://www.kaggle.com/msambare/fer2013).
   
   
-  - #### You can find the model building and training process in the `model_building.ipynb` file.
+  - #### You can find the model building and training process in the `model_training.ipynb` file.
   
   
   - #### Using OpenCV and Python, I have extracted the facial features with the help of Haar Cascade Classifier `haarcascade_frontalface_default.xml`, and given them to my model to detect the expressions.
