@@ -1,5 +1,5 @@
 # Facial expressions detection
-## This project detects facial expressions of humans using Deep Learning and Computer Vision
+## This project detects human facial expressions using Deep Learning and Computer Vision
 
 ### Here's a snippet
 
