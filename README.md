@@ -39,14 +39,10 @@
 #### Make sure you have Python>=3.7 installed in your machine, if not then you can download it [here](https://www.python.org/).
 
   1. [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repo or download the zip folder.
-  
-  2. Install the following dependencies:
-    
-   - TensorFlow 2.0 `pip install tensorflow`
      
-   - OpenCV `pip install opencv-python`
-    
-  3. Go to the directory of this repo cloned or downloaded onto your local machine and open cmd.
+  2. Go to the directory of this repo cloned or downloaded onto your local machine and open cmd.
+  
+  3. Install the dependencies by running `requirements.txt` file in cmd.
   
   4. Run `detection_on_vid.py` file and try making different expressions like Happy, Sad, Angry and Surprised faces and notice the detections made. 
 
